@@ -1,0 +1,1 @@
+Macro Crafting Manager provides a streamlined drag-and-drop interface for dividing and arranging item stacks within the craft-grid
